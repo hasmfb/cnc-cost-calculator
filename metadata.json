@@ -1,0 +1,5 @@
+{
+  "name": "CNC Machine Cost Calculator",
+  "description": "A simple, multi-language tool to calculate the monthly and annual operating costs for CNC machines, including electricity, maintenance, and consumable parts, with support for multiple currencies.",
+  "requestFramePermissions": []
+}
